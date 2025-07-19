@@ -4,6 +4,8 @@
 🤖 Applied AI & AgriTech Enthusiast | 👨‍🏫 Educator | 👨‍💻 Coding since 2011
 
 ---
+<img src="https://profile-counter.glitch.me/{ade-m}/count.svg" alt="ade-m :: Visitor's Count" />
+
 
 ## 🚀 About Me
 
