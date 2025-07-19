@@ -12,16 +12,6 @@ I’m passionate about leveraging **Artificial Intelligence** and **Computer Vis
 - 🎓 Teaching subjects: Programming, Web Development, AI, and Information Systems
 - 🧠 Lifelong learner and content creator in tech & education
 
----
-
-
-
----
-
-## 📚 Latest Projects
-
-- 🤖 Real-Time BISINDO Recognition with MediaPipe & KNN
-- 🌱 IoT Smart Hydroponic System with ESP32-CAM & MQTT
 
 ---
 
