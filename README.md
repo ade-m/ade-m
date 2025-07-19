@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ade Maulana!
 
-<!--
-**ade-m/ade-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Dosen Sistem Informasi 
+🤖 Applied AI & AgriTech Enthusiast | 👨‍🏫 Educator | 👨‍💻 Coding since 2011
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m passionate about leveraging **Artificial Intelligence** and **Computer Vision** for impactful and practical solutions
+
+- 🎓 Teaching subjects: Programming, Web Development, AI, and Information Systems
+- 🧠 Lifelong learner and content creator in tech & education
+
+---
+
+
+
+---
+
+## 📚 Latest Projects
+
+- 🤖 Real-Time BISINDO Recognition with MediaPipe & KNN
+- 🌱 IoT Smart Hydroponic System with ESP32-CAM & MQTT
+
+---
+
+## 📺 Let's Connect
+
+- 📷 [Instagram](https://instagram.com/ademaulana_)
+- 📷 [Instagram](https://tiktok.com/ademaulana_4)
+- 🎥 [YouTube](https://www.youtube.com/@ademaulana_4)
+
+---
+
+> *"Sharing knowledge is the most powerful form of impact."*  
+> — Ade Maulana
