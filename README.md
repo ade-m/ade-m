@@ -21,30 +21,11 @@
 
 <br>
 
-<img
-  align="right"
-  width="410"
-  src="[https://github-readme-stats.vercel.app/api?username=ade-m&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=ade-m&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9)"
-/>
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ade-m&theme=github_dark"/>
+</p>
 
-## RX-ADE // Pilot
-
-Hi, I'm **Ade Maulana**, a lecturer and AI researcher passionate about building intelligent systems that solve real-world problems.
-
-Current areas of interest:
-
-- Artificial Intelligence
-- Computer Vision
-- Machine Learning
-- Software Engineering
-- Smart Agriculture
-- AWS Cloud
-
-<br clear="right"/>
-
----
-
-## Mobile Suit Configuration
+## ⚙️ Technology Arsenal
 
 <p align="center">
 
@@ -108,71 +89,35 @@ Current areas of interest:
 
 ---
 
-## Featured Projects
 
-<table>
 
-<tr>
+## Currently Exploring
 
-<td>
+<p align="center">
 
-### 🤖 TalkieBuddy
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-58A6FF?style=flat-square"/>
 
-Interactive AI companion for speech development.
+<img src="https://img.shields.io/badge/Computer%20Vision-58A6FF?style=flat-square"/>
 
-</td>
+<img src="https://img.shields.io/badge/Large%20Language%20Models-58A6FF?style=flat-square"/>
 
-<td>
+<img src="https://img.shields.io/badge/Generative%20AI-58A6FF?style=flat-square"/>
 
-### 🌱 Smart Agriculture
+<img src="https://img.shields.io/badge/AIoT-58A6FF?style=flat-square"/>
 
-AI + IoT for precision farming.
+<img src="https://img.shields.io/badge/AWS-58A6FF?style=flat-square"/>
 
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### ☁ AWS Community
-
-Cloud workshops and community building.
-
-</td>
-
-<td>
-
-### 👁 Computer Vision
-
-Detection, classification and intelligent automation.
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-<div align="center">
-
-### SYSTEM STATUS
-
-🟦 AI Core
-
-🟦 Vision Engine
-
-🟦 Research Unit
-
-🟦 Cloud Network
-
-🟦 Mission Active
+</p>
 
 <br>
 
-*"Building intelligent systems for real-world impact."*
+<div align="center">
+
+### 💡 Philosophy
+
+> *small space where everybody is accepted*
 
 </div>
+
+
 
