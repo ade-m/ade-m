@@ -1,7 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150">
-<style>@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');.m{font-family:'Share Tech Mono',monospace}</style>
 <rect width="1200" height="150" rx="10" fill="#F4F6F9" stroke="#005CAF" stroke-width="3"/>
-<text x="40" y="42" class="m" font-size="26" fill="#005CAF">TECHNOLOGY ARSENAL</text>
-<text x="40" y="82" class="m" font-size="18" fill="#2B2B2B">Python • Java • Laravel • Flutter • TensorFlow • PyTorch • OpenCV • AWS • Docker</text>
-<text x="1040" y="26" class="m" font-size="10" fill="#E3000F">CAUTION</text>
+<rect y="0" width="1200" height="8" fill="#005CAF"/>
+<rect y="8" width="1200" height="4" fill="#E3000F"/>
+<text x="40" y="48" font-family="monospace" font-size="28" fill="#005CAF">TECHNOLOGY ARSENAL</text>
+<text x="40" y="88" font-family="monospace" font-size="17" fill="#2B2B2B">Python • Java • PHP • Laravel • Flutter • TensorFlow • PyTorch</text>
+<text x="40" y="116" font-family="monospace" font-size="17" fill="#2B2B2B">OpenCV • AWS • Docker • Linux • Git • PostgreSQL</text>
 </svg>

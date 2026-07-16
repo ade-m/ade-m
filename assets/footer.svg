@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90">
-<style>@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap');.t{font-family:'Rajdhani',monospace}</style>
 <rect width="1200" height="90" fill="#2B2B2B"/>
-<rect y="0" width="1200" height="6" fill="#005CAF"/>
-<rect y="6" width="1200" height="6" fill="#E3000F"/>
-<text x="600" y="46" text-anchor="middle" class="t" font-size="24" fill="#F4F6F9">Building intelligent systems that create meaningful impact.</text>
-<text x="600" y="70" text-anchor="middle" class="t" font-size="12" fill="#FFD700">CAUTION • SYSTEM READY</text>
+<rect width="1200" height="6" fill="#005CAF"/>
+<rect y="6" width="1200" height="4" fill="#E3000F"/>
+<text x="600" y="44" text-anchor="middle" font-family="monospace" font-size="22" fill="#F4F6F9">Building intelligent systems that create meaningful impact.</text>
+<text x="600" y="68" text-anchor="middle" font-family="monospace" font-size="11" fill="#FFD700">CAUTION • SYSTEM READY</text>
 </svg>

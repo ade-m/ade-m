@@ -1,13 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200">
-<style>@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');.m{font-family:'Roboto Mono',monospace}</style>
-<rect width="1200" height="200" rx="10" fill="#F4F6F9" stroke="#005CAF" stroke-width="3"/>
-<rect width="16" height="200" fill="#E3000F"/>
-<rect x="16" width="10" height="200" fill="#FFD700"/>
-<polygon points="1140,0 1200,0 1200,60" fill="#005CAF"/>
-<text x="50" y="42" class="m" font-size="26" fill="#005CAF">PROFILE</text>
-<text x="1030" y="28" class="m" font-size="11" fill="#2B2B2B">SYSTEM READY</text>
-<text x="50" y="86" class="m" font-size="18" fill="#2B2B2B">Lecturer • AI Researcher • Software Engineer</text>
-<text x="50" y="120" class="m" font-size="16" fill="#2B2B2B">Focused on AI, Computer Vision, AIoT, Cloud Computing and Smart Agriculture.</text>
-<rect x="920" y="150" width="230" height="22" fill="url(#haz)"/>
-<defs><pattern id="haz" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="10" height="20" fill="#2B2B2B"/><rect x="10" width="10" height="20" fill="#FFD700"/></pattern></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+<rect width="1200" height="180" rx="10" fill="#F4F6F9" stroke="#005CAF" stroke-width="3"/>
+<rect width="14" height="180" fill="#E3000F"/><rect x="14" width="10" height="180" fill="#FFD700"/>
+<text x="40" y="38" font-family="monospace" font-size="14" fill="#E3000F">SYSTEM READY</text>
+<text x="40" y="72" font-family="monospace" font-size="28" font-weight="bold" fill="#005CAF">PROFILE</text>
+<text x="40" y="108" font-family="monospace" font-size="18" fill="#2B2B2B">Lecturer • AI Researcher • Software Engineer</text>
+<text x="40" y="138" font-family="monospace" font-size="16" fill="#2B2B2B">Focused on AI, Computer Vision, Cloud Computing and Smart Agriculture.</text>
+<rect x="980" y="20" width="180" height="18" fill="#2B2B2B"/>
+<text x="1070" y="34" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">CAUTION</text>
 </svg>

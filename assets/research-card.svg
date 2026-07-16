@@ -1,10 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230">
-<style>@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');.m{font-family:'Roboto Mono',monospace}</style>
-<rect width="1200" height="230" rx="10" fill="#F4F6F9" stroke="#005CAF" stroke-width="3"/>
-<text x="40" y="40" class="m" font-size="26" fill="#005CAF">RESEARCH HIGHLIGHTS</text>
-<text x="50" y="82" class="m" font-size="17" fill="#2B2B2B">▶ TalkieBuddy</text>
-<text x="50" y="114" class="m" font-size="17" fill="#2B2B2B">▶ Smart Agriculture</text>
-<text x="50" y="146" class="m" font-size="17" fill="#2B2B2B">▶ Computer Vision</text>
-<text x="50" y="178" class="m" font-size="17" fill="#2B2B2B">▶ AWS Community</text>
-<text x="1010" y="205" class="m" font-size="11" fill="#E3000F">SYSTEM READY</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250">
+<rect width="1200" height="250" rx="10" fill="#F4F6F9" stroke="#005CAF" stroke-width="3"/>
+<text x="40" y="42" font-family="monospace" font-size="28" fill="#005CAF">RESEARCH HIGHLIGHTS</text>
+<text x="50" y="82" font-family="monospace" font-size="17" fill="#2B2B2B">■ TalkieBuddy — AI companion for children's speech development</text>
+<text x="50" y="118" font-family="monospace" font-size="17" fill="#2B2B2B">■ Smart Agriculture — AI + IoT + Computer Vision</text>
+<text x="50" y="154" font-family="monospace" font-size="17" fill="#2B2B2B">■ Computer Vision — Detection, classification & automation</text>
+<text x="50" y="190" font-family="monospace" font-size="17" fill="#2B2B2B">■ AWS Community — Workshops, mentoring & cloud education</text>
+<rect x="990" y="220" width="170" height="16" fill="#2B2B2B"/>
+<text x="1075" y="232" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">SYSTEM READY</text>
 </svg>
