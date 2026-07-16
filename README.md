@@ -1,11 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=RX-ADE&fontSize=64&fontColor=58A6FF&animation=fadeIn&desc=Mobile%20Suit%20Development%20System&descAlignY=68"/>
-
-### **ADE MAULANA**
-
-*Artificial Intelligence • Computer Vision • Software Engineering • Educator*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=ADE MAULANA&fontSize=64&fontColor=58A6FF&animation=fadeIn&desc=Artificial%20Intelligence•Computer%20ision•Software%20Engineering•Educator&descAlignY=68"/>
 
 <p>
 <a href="https://www.linkedin.com/in/ade-m-a932bb88">
