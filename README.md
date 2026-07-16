@@ -1,141 +1,179 @@
+```markdown
 <div align="center">
 
-# RX-ADE
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=RX-ADE&fontSize=64&fontColor=58A6FF&animation=fadeIn&desc=Mobile%20Suit%20Development%20System&descAlignY=68"/>
 
-### Mobile Suit Development System
+### **ADE MAULANA**
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Computer+Vision;Software+Engineering;Lecturer+at+Universitas+Sumatera+Utara" />
+*Artificial Intelligence • Computer Vision • Software Engineering • Educator*
 
-<br>
-
+<p>
 <a href="https://www.linkedin.com/in/ade-m-a932bb88">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ade-m">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/ademaulana_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ade-m&style=flat-square&label=PROFILE+VIEWS">
+</p>
 
 </div>
 
 <br>
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=ade-m&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=ade-m&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9"/>
 
-## 👤 Pilot
+## RX-ADE // Pilot
 
-**Ade Maulana**
+Hi, I'm **Ade Maulana**, a lecturer and AI researcher passionate about building intelligent systems that solve real-world problems.
 
-🎓 Lecturer @ Universitas Sumatera Utara
+Current areas of interest:
 
-🤖 Applied Artificial Intelligence
-
-👁 Computer Vision
-
-☁️ AWS Community
-
-🌱 Smart Agriculture
-
-💻 Software Engineering
+- Artificial Intelligence
+- Computer Vision
+- Machine Learning
+- Software Engineering
+- Smart Agriculture
+- AWS Cloud
 
 <br clear="right"/>
 
-## ⚙ Mobile Suit Specification
+---
 
-<p>
+## Mobile Suit Configuration
 
-<img src="https://skillicons.dev/icons?i=python"/>
+<p align="center">
 
-<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,php,laravel,flutter,dart"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,firebase"/>
 
-<img src="https://skillicons.dev/icons?i=php"/>
-
-<img src="https://skillicons.dev/icons?i=laravel"/>
-
-<img src="https://skillicons.dev/icons?i=flutter"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=tensorflow"/>
-
-<img src="https://skillicons.dev/icons?i=pytorch"/>
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,mysql,postgres"/>
 
 </p>
 
-<br>
+---
 
-## 🚀 Active Missions
+## Active Missions
 
-- Artificial Intelligence Research
+<table>
+<tr>
+
+<td width="50%">
+
+### Research
+
+- Applied Artificial Intelligence
 - Computer Vision
-- AI for Agriculture
-- Teaching & Mentoring
-- Open Source Development
+- AIoT
+- LLM
+- Edge AI
 
-<br>
+</td>
+
+<td width="50%">
+
+### Community
+
+- AWS Community
+- Open Source
+- Teaching
+- Mentoring
+- Workshops
+
+</td>
+
+</tr>
+</table>
+
+---
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ade-m&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=ade-m&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ade-m&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ade-m&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ade-m&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ade-m&theme=github-compact&hide_border=true"/>
 
 </p>
 
-<p align="center">
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=ade-m&theme=algolia&margin-w=10&margin-h=10&column=4"/>
+## Featured Projects
 
-</p>
+<table>
+
+<tr>
+
+<td>
+
+### 🤖 TalkieBuddy
+
+Interactive AI companion for speech development.
+
+</td>
+
+<td>
+
+### 🌱 Smart Agriculture
+
+AI + IoT for precision farming.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### ☁ AWS Community
+
+Cloud workshops and community building.
+
+</td>
+
+<td>
+
+### 👁 Computer Vision
+
+Detection, classification and intelligent automation.
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 <div align="center">
 
 ### SYSTEM STATUS
 
-🟢 AI Core Online
+🟦 AI Core
 
-🟢 Vision Module Ready
+🟦 Vision Engine
 
-🟢 Research Active
+🟦 Research Unit
 
-🟢 Cloud Connected
+🟦 Cloud Network
 
-🟢 Mission Continue
+🟦 Mission Active
 
 <br>
 
 *"Building intelligent systems for real-world impact."*
 
 </div>
+```
