@@ -1,8 +1,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=ADE MAULANA&fontSize=64&fontColor=58A6FF&animation=fadeIn&desc=Artificial%20Intelligence•Computer%20ision•Software%20Engineering•Educator&descAlignY=68"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=240&text=ADE%20MAULANA&fontSize=58&fontColor=58A6FF&animation=fadeIn&desc=Artificial%20Intelligence%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Educator&descAlignY=66"/>
 <p>
 <a href="https://www.linkedin.com/in/ade-m-a932bb88">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,7 +21,11 @@
 
 <br>
 
-<img align="right" width="410" src="https://github-readme-stats.vercel.app/api?username=ade-m&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9"/>
+<img
+  align="right"
+  width="410"
+  src="[https://github-readme-stats.vercel.app/api?username=ade-m&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=ade-m&show_icons=true&theme=transparent&hide_border=true&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9)"
+/>
 
 ## RX-ADE // Pilot
 
