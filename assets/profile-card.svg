@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
-<rect width="1200" height="180" rx="12" fill="#101826" stroke="#005BAC" stroke-width="2"/>
-<rect x="0" y="0" width="10" height="180" fill="#E53935"/>
-<rect x="10" y="0" width="10" height="180" fill="#FDD835"/>
-<text x="50" y="50" fill="#F8F8F8" font-size="28" font-family="Verdana">About</text>
-<text x="50" y="90" fill="#C8D1DC" font-size="18" font-family="Arial">Lecturer, AI Researcher, and Software Engineer.</text>
-<text x="50" y="120" fill="#C8D1DC" font-size="18" font-family="Arial">Focused on Artificial Intelligence, Computer Vision, Cloud, and Smart Agriculture.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190">
+<rect width="1200" height="190" rx="12" fill="#FAFAFA" stroke="#005BAC" stroke-width="2"/>
+<rect width="12" height="190" fill="#E53935"/><rect x="12" width="12" height="190" fill="#FDD835"/>
+<text x="50" y="48" font-size="28" font-family="Verdana" fill="#005BAC">PROFILE</text>
+<text x="50" y="88" font-size="18" font-family="Arial" fill="#222">Lecturer • AI Researcher • Software Engineer</text>
+<text x="50" y="118" font-size="17" font-family="Arial" fill="#555">Research interests: AI, Computer Vision, AIoT, Cloud Computing, Smart Agriculture.</text>
+<text x="50" y="148" font-size="17" font-family="Arial" fill="#555">Building practical systems that bridge academic research and real-world impact.</text>
 </svg>

@@ -1,23 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
 <defs>
 <linearGradient id="bg" x1="0" x2="1">
-<stop offset="0%" stop-color="#0B1220"/>
-<stop offset="100%" stop-color="#172033"/>
-</linearGradient>
-<linearGradient id="blue" x1="0" x2="1">
-<stop offset="0%" stop-color="#005BAC"/>
-<stop offset="100%" stop-color="#2E8BFF"/>
+<stop offset="0%" stop-color="#F4F6F8"/>
+<stop offset="100%" stop-color="#E8EDF2"/>
 </linearGradient>
 </defs>
 <rect width="1280" height="320" rx="18" fill="url(#bg)"/>
-<rect x="20" y="20" width="1240" height="280" rx="14" fill="none" stroke="#005BAC" stroke-width="3"/>
-<rect x="20" y="20" width="1240" height="10" fill="#E53935"/>
-<rect x="1090" y="20" width="170" height="10" fill="#FDD835"/>
-<line x1="40" y1="70" x2="1240" y2="70" stroke="#2E8BFF" stroke-width="1.5" opacity="0.5"/>
-<line x1="40" y1="250" x2="1240" y2="250" stroke="#2E8BFF" stroke-width="1.5" opacity="0.5"/>
-<text x="80" y="110" fill="#FDD835" font-size="18" font-family="Arial">STATUS</text>
-<text x="80" y="140" fill="#ffffff" font-size="18" font-family="Arial">ONLINE</text>
-<text x="640" y="150" text-anchor="middle" fill="#F8F8F8" font-size="58" font-family="Verdana" font-weight="700">ADE MAULANA</text>
-<text x="640" y="188" text-anchor="middle" fill="#C8D1DC" font-size="22" font-family="Arial">Artificial Intelligence • Computer Vision • Software Engineering</text>
-<text x="640" y="280" text-anchor="middle" fill="#2E8BFF" font-size="15" font-family="Arial">RESEARCH • EDUCATION • OPEN SOURCE • CLOUD</text>
+<rect x="18" y="18" width="1244" height="284" rx="14" fill="none" stroke="#005BAC" stroke-width="3"/>
+<rect x="18" y="18" width="1244" height="8" fill="#E53935"/>
+<rect x="1120" y="18" width="142" height="8" fill="#FDD835"/>
+<line x1="40" y1="70" x2="1240" y2="70" stroke="#C9D8E8"/>
+<line x1="40" y1="250" x2="1240" y2="250" stroke="#C9D8E8"/>
+<text x="70" y="54" font-family="Arial" font-size="14" fill="#005BAC">SYSTEM OVERVIEW</text>
+<text x="640" y="145" text-anchor="middle" font-family="Verdana" font-size="58" font-weight="700" fill="#1A1A1A">ADE MAULANA</text>
+<text x="640" y="183" text-anchor="middle" font-family="Arial" font-size="22" fill="#555">Artificial Intelligence • Computer Vision • Software Engineering</text>
+<text x="640" y="278" text-anchor="middle" font-family="Arial" font-size="15" fill="#005BAC">RESEARCH • EDUCATION • OPEN SOURCE • CLOUD</text>
 </svg>
