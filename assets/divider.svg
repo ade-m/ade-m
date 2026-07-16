@@ -1,5 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30">
-<line x1="0" y1="15" x2="1200" y2="15" stroke="#005BAC" stroke-width="2"/>
-<rect x="560" y="8" width="80" height="14" fill="#E53935"/>
-<rect x="592" y="4" width="16" height="22" fill="#FDD835"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="32">
+<defs><pattern id="haz" width="20" height="20" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><rect width="10" height="20" fill="#2B2B2B"/><rect x="10" width="10" height="20" fill="#FFD700"/></pattern></defs>
+<line x1="0" y1="16" x2="1200" y2="16" stroke="#005CAF" stroke-width="2"/>
+<rect x="520" y="8" width="160" height="16" fill="url(#haz)"/>
+<rect x="588" y="5" width="24" height="22" fill="#E3000F"/>
 </svg>

@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230">
-<rect width="1200" height="230" rx="12" fill="#FAFAFA" stroke="#005BAC" stroke-width="2"/>
-<text x="40" y="42" font-size="26" fill="#005BAC" font-family="Verdana">RESEARCH HIGHLIGHTS</text>
-<text x="50" y="82" font-size="18">• TalkieBuddy — AI companion for children's speech development.</text>
-<text x="50" y="116" font-size="18">• Smart Agriculture — AI + IoT + Computer Vision.</text>
-<text x="50" y="150" font-size="18">• Computer Vision — Detection, classification, automation.</text>
-<text x="50" y="184" font-size="18">• AWS Community — Workshops and mentoring.</text>
+<style>@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');.m{font-family:'Roboto Mono',monospace}</style>
+<rect width="1200" height="230" rx="10" fill="#F4F6F9" stroke="#005CAF" stroke-width="3"/>
+<text x="40" y="40" class="m" font-size="26" fill="#005CAF">RESEARCH HIGHLIGHTS</text>
+<text x="50" y="82" class="m" font-size="17" fill="#2B2B2B">▶ TalkieBuddy</text>
+<text x="50" y="114" class="m" font-size="17" fill="#2B2B2B">▶ Smart Agriculture</text>
+<text x="50" y="146" class="m" font-size="17" fill="#2B2B2B">▶ Computer Vision</text>
+<text x="50" y="178" class="m" font-size="17" fill="#2B2B2B">▶ AWS Community</text>
+<text x="1010" y="205" class="m" font-size="11" fill="#E3000F">SYSTEM READY</text>
 </svg>

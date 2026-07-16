@@ -1,6 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="100">
-<rect width="1200" height="100" fill="#0F172A"/>
-<line x1="0" y1="0" x2="1200" y2="0" stroke="#005BAC" stroke-width="4"/>
-<text x="600" y="42" text-anchor="middle" fill="#F8F8F8" font-size="24">Building intelligent systems that create meaningful impact.</text>
-<text x="600" y="72" text-anchor="middle" fill="#FDD835" font-size="14">Artificial Intelligence • Computer Vision • Software Engineering</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="90">
+<style>@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@600&display=swap');.t{font-family:'Rajdhani',monospace}</style>
+<rect width="1200" height="90" fill="#2B2B2B"/>
+<rect y="0" width="1200" height="6" fill="#005CAF"/>
+<rect y="6" width="1200" height="6" fill="#E3000F"/>
+<text x="600" y="46" text-anchor="middle" class="t" font-size="24" fill="#F4F6F9">Building intelligent systems that create meaningful impact.</text>
+<text x="600" y="70" text-anchor="middle" class="t" font-size="12" fill="#FFD700">CAUTION • SYSTEM READY</text>
 </svg>
