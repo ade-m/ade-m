@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=260&text=RX-ADE&fontSize=64&fontColor=58A6FF&animation=fadeIn&desc=Mobile%20Suit%20Development%20System&descAlignY=68"/>
@@ -176,4 +176,4 @@ Detection, classification and intelligent automation.
 *"Building intelligent systems for real-world impact."*
 
 </div>
-```
+
