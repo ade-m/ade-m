@@ -1,175 +1,23 @@
-<svg width="1280" height="280" viewBox="0 0 1280 280" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0F172A"/>
-      <stop offset="100%" stop-color="#111827"/>
-    </linearGradient>
-
-    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#005BAC"/>
-      <stop offset="100%" stop-color="#1976D2"/>
-    </linearGradient>
-
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-  </defs>
-
-  <!-- Background -->
-
-  <rect width="1280" height="280" rx="18" fill="url(#bg)"/>
-
-  <!-- Blue Frame -->
-
-  <rect x="10" y="10" width="1260" height="260"
-        rx="14"
-        fill="none"
-        stroke="#1976D2"
-        stroke-width="2"/>
-
-  <!-- Red Accent -->
-
-  <rect x="10" y="10"
-        width="1260"
-        height="8"
-        fill="#E53935"/>
-
-  <!-- Yellow Accent -->
-
-  <rect x="1160"
-        y="10"
-        width="110"
-        height="8"
-        fill="#FDD835"/>
-
-  <!-- Decorative Lines -->
-
-  <line x1="60" y1="70" x2="380" y2="70"
-        stroke="#1976D2"
-        stroke-width="3"/>
-
-  <line x1="60" y1="210" x2="360" y2="210"
-        stroke="#1976D2"
-        stroke-width="3"/>
-
-  <line x1="930" y1="70" x2="1220" y2="70"
-        stroke="#1976D2"
-        stroke-width="3"/>
-
-  <line x1="930" y1="210" x2="1220" y2="210"
-        stroke="#1976D2"
-        stroke-width="3"/>
-
-  <!-- Left Box -->
-
-  <rect x="50"
-        y="90"
-        width="150"
-        height="90"
-        rx="8"
-        fill="#111827"
-        stroke="#005BAC"/>
-
-  <text x="125"
-        y="120"
-        text-anchor="middle"
-        font-family="Orbitron, Arial"
-        font-size="15"
-        fill="#FDD835">
-
-        STATUS
-
-  </text>
-
-  <text x="125"
-        y="150"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="14"
-        fill="#ffffff">
-
-        ONLINE
-
-  </text>
-
-  <!-- Right Box -->
-
-  <rect x="1080"
-        y="90"
-        width="150"
-        height="90"
-        rx="8"
-        fill="#111827"
-        stroke="#005BAC"/>
-
-  <text x="1155"
-        y="120"
-        text-anchor="middle"
-        font-family="Orbitron, Arial"
-        font-size="15"
-        fill="#FDD835">
-
-        SYSTEM
-
-  </text>
-
-  <text x="1155"
-        y="150"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="14"
-        fill="#ffffff">
-
-        ACTIVE
-
-  </text>
-
-  <!-- Name -->
-
-  <text x="640"
-        y="120"
-        text-anchor="middle"
-        font-family="Orbitron, Arial"
-        font-size="46"
-        font-weight="700"
-        fill="#F8F8F8"
-        filter="url(#glow)">
-
-        ADE MAULANA
-
-  </text>
-
-  <!-- Subtitle -->
-
-  <text x="640"
-        y="160"
-        text-anchor="middle"
-        font-family="Arial"
-        font-size="18"
-        fill="#B0BEC5">
-
-        Artificial Intelligence • Computer Vision • Software Engineering
-
-  </text>
-
-  <!-- Bottom Labels -->
-
-  <text x="640"
-        y="235"
-        text-anchor="middle"
-        font-family="Orbitron, Arial"
-        font-size="13"
-        fill="#1976D2">
-
-        RESEARCH • EDUCATION • OPEN SOURCE • CLOUD
-
-  </text>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
+<defs>
+<linearGradient id="bg" x1="0" x2="1">
+<stop offset="0%" stop-color="#0B1220"/>
+<stop offset="100%" stop-color="#172033"/>
+</linearGradient>
+<linearGradient id="blue" x1="0" x2="1">
+<stop offset="0%" stop-color="#005BAC"/>
+<stop offset="100%" stop-color="#2E8BFF"/>
+</linearGradient>
+</defs>
+<rect width="1280" height="320" rx="18" fill="url(#bg)"/>
+<rect x="20" y="20" width="1240" height="280" rx="14" fill="none" stroke="#005BAC" stroke-width="3"/>
+<rect x="20" y="20" width="1240" height="10" fill="#E53935"/>
+<rect x="1090" y="20" width="170" height="10" fill="#FDD835"/>
+<line x1="40" y1="70" x2="1240" y2="70" stroke="#2E8BFF" stroke-width="1.5" opacity="0.5"/>
+<line x1="40" y1="250" x2="1240" y2="250" stroke="#2E8BFF" stroke-width="1.5" opacity="0.5"/>
+<text x="80" y="110" fill="#FDD835" font-size="18" font-family="Arial">STATUS</text>
+<text x="80" y="140" fill="#ffffff" font-size="18" font-family="Arial">ONLINE</text>
+<text x="640" y="150" text-anchor="middle" fill="#F8F8F8" font-size="58" font-family="Verdana" font-weight="700">ADE MAULANA</text>
+<text x="640" y="188" text-anchor="middle" fill="#C8D1DC" font-size="22" font-family="Arial">Artificial Intelligence • Computer Vision • Software Engineering</text>
+<text x="640" y="280" text-anchor="middle" fill="#2E8BFF" font-size="15" font-family="Arial">RESEARCH • EDUCATION • OPEN SOURCE • CLOUD</text>
 </svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+<rect width="1200" height="260" fill="#0F172A"/>
+<g>
+<rect x="30" y="30" width="260" height="180" rx="10" fill="#172033" stroke="#005BAC"/>
+<text x="50" y="65" fill="#FDD835" font-size="22">TalkieBuddy</text>
+<text x="50" y="95" fill="#E5E7EB" font-size="15">AI companion for speech development</text>
+</g>
+<g>
+<rect x="320" y="30" width="260" height="180" rx="10" fill="#172033" stroke="#005BAC"/>
+<text x="340" y="65" fill="#FDD835" font-size="22">Smart Agriculture</text>
+<text x="340" y="95" fill="#E5E7EB" font-size="15">AI + IoT + Computer Vision</text>
+</g>
+<g>
+<rect x="610" y="30" width="260" height="180" rx="10" fill="#172033" stroke="#005BAC"/>
+<text x="630" y="65" fill="#FDD835" font-size="22">Computer Vision</text>
+<text x="630" y="95" fill="#E5E7EB" font-size="15">Detection & Classification</text>
+</g>
+<g>
+<rect x="900" y="30" width="260" height="180" rx="10" fill="#172033" stroke="#005BAC"/>
+<text x="920" y="65" fill="#FDD835" font-size="22">AWS Community</text>
+<text x="920" y="95" fill="#E5E7EB" font-size="15">Workshops & Mentoring</text>
+</g>
+</svg>

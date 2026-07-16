@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+<rect width="1200" height="180" rx="12" fill="#101826" stroke="#005BAC" stroke-width="2"/>
+<rect x="0" y="0" width="10" height="180" fill="#E53935"/>
+<rect x="10" y="0" width="10" height="180" fill="#FDD835"/>
+<text x="50" y="50" fill="#F8F8F8" font-size="28" font-family="Verdana">About</text>
+<text x="50" y="90" fill="#C8D1DC" font-size="18" font-family="Arial">Lecturer, AI Researcher, and Software Engineer.</text>
+<text x="50" y="120" fill="#C8D1DC" font-size="18" font-family="Arial">Focused on Artificial Intelligence, Computer Vision, Cloud, and Smart Agriculture.</text>
+</svg>
