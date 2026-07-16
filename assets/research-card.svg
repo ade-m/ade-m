@@ -1,10 +1,73 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250">
-<rect width="1200" height="250" rx="10" fill="#F4F6F9" stroke="#005CAF" stroke-width="3"/>
-<text x="40" y="42" font-family="monospace" font-size="28" fill="#005CAF">RESEARCH HIGHLIGHTS</text>
-<text x="50" y="82" font-family="monospace" font-size="17" fill="#2B2B2B">■ TalkieBuddy — AI companion for children's speech development</text>
-<text x="50" y="118" font-family="monospace" font-size="17" fill="#2B2B2B">■ Smart Agriculture — AI + IoT + Computer Vision</text>
-<text x="50" y="154" font-family="monospace" font-size="17" fill="#2B2B2B">■ Computer Vision — Detection, classification & automation</text>
-<text x="50" y="190" font-family="monospace" font-size="17" fill="#2B2B2B">■ AWS Community — Workshops, mentoring & cloud education</text>
-<rect x="990" y="220" width="170" height="16" fill="#2B2B2B"/>
-<text x="1075" y="232" text-anchor="middle" font-family="monospace" font-size="10" fill="#FFD700">SYSTEM READY</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+
+  <!-- Background -->
+  <rect width="1200" height="250" rx="10"
+        fill="#F4F6F9"
+        stroke="#005CAF"
+        stroke-width="3"/>
+
+  <!-- Header -->
+  <rect x="0" y="0" width="1200" height="8" fill="#005CAF"/>
+  <rect x="0" y="8" width="1200" height="4" fill="#E3000F"/>
+
+  <text x="40" y="42"
+        font-family="monospace"
+        font-size="28"
+        font-weight="bold"
+        fill="#005CAF">
+    RESEARCH HIGHLIGHTS
+  </text>
+
+  <!-- Item 1 -->
+  <rect x="40" y="70" width="10" height="10" fill="#FFD700"/>
+  <text x="60" y="80"
+        font-family="monospace"
+        font-size="17"
+        fill="#2B2B2B">
+    TalkieBuddy - AI companion for children's speech development
+  </text>
+
+  <!-- Item 2 -->
+  <rect x="40" y="106" width="10" height="10" fill="#FFD700"/>
+  <text x="60" y="116"
+        font-family="monospace"
+        font-size="17"
+        fill="#2B2B2B">
+    Smart Agriculture - AI + IoT + Computer Vision
+  </text>
+
+  <!-- Item 3 -->
+  <rect x="40" y="142" width="10" height="10" fill="#FFD700"/>
+  <text x="60" y="152"
+        font-family="monospace"
+        font-size="17"
+        fill="#2B2B2B">
+    Computer Vision - Detection, classification &amp; automation
+  </text>
+
+  <!-- Item 4 -->
+  <rect x="40" y="178" width="10" height="10" fill="#FFD700"/>
+  <text x="60" y="188"
+        font-family="monospace"
+        font-size="17"
+        fill="#2B2B2B">
+    AWS Community - Workshops, mentoring &amp; cloud education
+  </text>
+
+  <!-- Status -->
+  <rect x="980" y="214"
+        width="180"
+        height="22"
+        rx="4"
+        fill="#2B2B2B"/>
+
+  <text x="1070"
+        y="229"
+        text-anchor="middle"
+        font-family="monospace"
+        font-size="10"
+        fill="#FFD700">
+    SYSTEM READY
+  </text>
+
 </svg>
