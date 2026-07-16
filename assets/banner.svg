@@ -1,21 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320">
-<defs>
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;700&display=swap');
-.t{font-family:'Rajdhani',monospace}
-</style>
-<pattern id="haz" width="24" height="24" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
-<rect width="12" height="24" fill="#2B2B2B"/><rect x="12" width="12" height="24" fill="#FFD700"/>
-</pattern>
-</defs>
-<rect width="1280" height="320" rx="18" fill="#F4F6F9"/>
-<polygon points="18,18 1262,18 1262,302 60,302 18,260" fill="none" stroke="#005CAF" stroke-width="3"/>
-<rect x="18" y="18" width="1244" height="12" fill="#E3000F"/>
-<rect x="1080" y="18" width="182" height="12" fill="url(#haz)"/>
-<text x="38" y="52" class="t" font-size="13" fill="#2B2B2B">CAUTION</text>
-<text x="1140" y="52" class="t" font-size="13" fill="#2B2B2B">SYSTEM READY</text>
-<text x="640" y="150" text-anchor="middle" class="t" font-size="62" font-weight="700" fill="#2B2B2B">ADE MAULANA</text>
-<text x="640" y="186" text-anchor="middle" class="t" font-size="22" fill="#005CAF">Artificial Intelligence • Computer Vision • Software Engineering</text>
-<line x1="60" y1="230" x2="1220" y2="230" stroke="#FFD700" stroke-width="2"/>
-<text x="640" y="260" text-anchor="middle" class="t" font-size="14" fill="#2B2B2B">RESEARCH • EDUCATION • OPEN SOURCE • CLOUD</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300">
+<rect width="1280" height="300" fill="#F4F6F9"/>
+<polygon points="20,20 1260,20 1260,280 80,280 20,220" fill="none" stroke="#005CAF" stroke-width="3"/>
+<rect x="20" y="20" width="1240" height="10" fill="#E3000F"/>
+<rect x="1080" y="20" width="180" height="10" fill="#FFD700"/>
+<rect x="1080" y="30" width="180" height="10" fill="#2B2B2B"/>
+<line x1="60" y1="80" x2="1220" y2="80" stroke="#005CAF" stroke-width="1"/>
+<line x1="60" y1="220" x2="1220" y2="220" stroke="#005CAF" stroke-width="1"/>
+<text x="40" y="55" font-family="monospace" font-size="12" fill="#2B2B2B">CAUTION</text>
+<text x="1120" y="55" font-family="monospace" font-size="12" fill="#2B2B2B">SYSTEM READY</text>
+<text x="640" y="145" text-anchor="middle" font-family="monospace" font-size="58" font-weight="bold" fill="#2B2B2B">ADE MAULANA</text>
+<text x="640" y="180" text-anchor="middle" font-family="monospace" font-size="20" fill="#005CAF">Artificial Intelligence • Computer Vision • Software Engineering</text>
+<rect x="60" y="245" width="160" height="22" fill="#2B2B2B"/>
+<rect x="220" y="245" width="160" height="22" fill="#FFD700"/>
+<rect x="380" y="245" width="160" height="22" fill="#E3000F"/>
+<text x="140" y="260" text-anchor="middle" font-family="monospace" font-size="11" fill="#F4F6F9">RESEARCH</text>
+<text x="300" y="260" text-anchor="middle" font-family="monospace" font-size="11" fill="#2B2B2B">EDUCATION</text>
+<text x="460" y="260" text-anchor="middle" font-family="monospace" font-size="11" fill="#F4F6F9">OPEN SOURCE</text>
 </svg>
