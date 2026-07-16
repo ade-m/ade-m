@@ -1,15 +1,17 @@
 <p align="center">
-<img src="./assets/banner.svg">
+<img src="./assets/banner.svg" width="100%">
 </p>
 
-<img src="./assets/profile-card.svg">
+<img src="./assets/profile-card.svg" width="100%">
 
-<img src="./assets/divider.svg">
+<img src="./assets/divider.svg" width="100%">
 
-<img src="./assets/tech-card.svg">
+<img src="./assets/tech-card.svg" width="100%">
 
-<img src="./assets/research-card.svg">
+<img src="./assets/divider.svg" width="100%">
 
-<img src="./assets/projects-card.svg">
+<img src="./assets/research-card.svg" width="100%">
 
-<img src="./assets/footer.svg">
+<img src="./assets/divider.svg" width="100%">
+
+<img src="./assets/footer.svg" width="100%">
