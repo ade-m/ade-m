@@ -56,28 +56,20 @@
   <img src="./assets/divider.svg" width="100%">
 </p>
 
-## 📊 GitHub Analytics
+## ⚡ Contribution Activity
 
 <p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ade-m&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ade-m&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ade-m&theme=github_dark"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ade-m&theme=github_dark&utcOffset=7"/>
-
-</p>
-
-<p align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ade-m&theme=github-compact&hide_border=true"/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ade-m/ade-m/output/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ade-m/ade-m/output/pacman-contribution-graph.svg">
+    <img
+      alt="Pac-Man contribution graph"
+      src="https://raw.githubusercontent.com/ade-m/ade-m/output/pacman-contribution-graph.svg">
+  </picture>
 </p>
 
 <p align="center">
